@@ -10,23 +10,20 @@ This project demonstrates how Natural Language Processing (NLP) and data visuali
 
 #Key Features
 
-	•	📌 Data Preprocessing: The chat data is cleaned and organized using Pandas, making it suitable for analysis.
-	•	📌 Sentiment Analysis: Utilizes TextBlob to assess the sentiment (positive, neutral, or negative) of individual messages, offering an overview of the mood within the chat.
-	•	📌 Data Visualization: Various dynamic visualizations, such as word clouds and time series plots, are generated using Matplotlib, providing a clear, visual representation of chat data.
-	•	📌 Activity Analysis: Analyzes weekly and monthly chat activity to identify trends, peak times of communication, and user engagement.
-	•	📌 Word Frequency: Displays a list of the most frequently used words in the chat after removing common stopwords, giving insights into popular topics and phrases.
-	•	📌 Emoji Analysis: Counts and identifies the most frequently used emojis in the chat, reflecting the emotional tone of conversations.
-	•	📌 Interactive Interface: The entire application is built with Streamlit, allowing users to upload their WhatsApp chat files and interactively view the results in a user-friendly format.
+📌 Data Preprocessing: The chat data is cleaned and organized using Pandas, making it suitable for analysis.
 
- Key Features
+📌 Sentiment Analysis: Utilizes TextBlob to assess the sentiment (positive, neutral, or negative) of individual messages, offering an overview of the mood within the chat.
 
-	•	📌 Data Preprocessing: The chat data is cleaned and organized using Pandas, making it suitable for analysis.
-	•	📌 Sentiment Analysis: Utilizes TextBlob to assess the sentiment (positive, neutral, or negative) of individual messages, offering an overview of the mood within the chat.
-	•	📌 Data Visualization: Various dynamic visualizations, such as word clouds and time series plots, are generated using Matplotlib, providing a clear, visual representation of chat data.
-	•	📌 Activity Analysis: Analyzes weekly and monthly chat activity to identify trends, peak times of communication, and user engagement.
-	•	📌 Word Frequency: Displays a list of the most frequently used words in the chat after removing common stopwords, giving insights into popular topics and phrases.
-	•	📌 Emoji Analysis: Counts and identifies the most frequently used emojis in the chat, reflecting the emotional tone of conversations.
-	•	📌 Interactive Interface: The entire application is built with Streamlit, allowing users to upload their WhatsApp chat files and interactively view the results in a user-friendly format.
+📌 Data Visualization: Various dynamic visualizations, such as word clouds and time series plots, are generated using Matplotlib, providing a clear, visual representation of chat data.
+
+📌 Activity Analysis: Analyzes weekly and monthly chat activity to identify trends, peak times of communication, and user engagement.
+
+📌 Word Frequency: Displays a list of the most frequently used words in the chat after removing common stopwords, giving insights into popular topics and phrases.
+
+📌 Emoji Analysis: Counts and identifies the most frequently used emojis in the chat, reflecting the emotional tone of conversations.
+
+📌 Interactive Interface: The entire application is built with Streamlit, allowing users to upload their WhatsApp chat files and interactively view the results in a user-friendly format.
+
 
 #How to Use
 
@@ -36,15 +33,19 @@ You can try the analyzer with your own WhatsApp group chats by following these s
 	•	Open the group chat in WhatsApp.
 	•	Tap the three dots in the top-right corner.
 	•	Select “Export Chat” (choose the option to export without media).
+ 
 	2.	For Mobile Users:
 	•	You’ll be prompted to send the exported file via media platforms such as WhatsApp, Telegram, or Google Drive. Choose an option that lets you access the file easily.
+ 
 	3.	For Laptop Users:
 	•	The exported file will be saved directly to your system.
+ 
 	4.	Upload the Chat File:
 	•	Copy the URL link of the analyzer and paste it into any web browser.
 	•	If you’re on mobile, you’ll see an arrow (>) in the top left corner of the screen—click it to reveal the option to upload a file.
 	•	For laptop users, the option to upload will be immediately visible.
 	•	Click on “Browse File” and select the WhatsApp chat file you want to analyze (either individual or group chats).
+ 
 	5.	View the Analysis:
 	•	Once the file is uploaded, click “Show Analysis”.
 	•	If you see the analysis results, congratulations 🎉! You’ve successfully analyzed your WhatsApp chat.
