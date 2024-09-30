@@ -1,4 +1,5 @@
 ## WhatsApp Chat Analyzer (NLP Project)
+❗️❗️Note: This code is designed exclusively for controlling volume on macOS. It will not work on Windows or Linux. Sorry for the inconvenience, but feel free to update the code for other platforms. If you’re having trouble, you can also contact me for assistance.
 
 ![whatsapp_Chat_Analyzer_Image_1](https://github.com/user-attachments/assets/407b2472-cfea-4561-939b-ac3d945af733)
 
